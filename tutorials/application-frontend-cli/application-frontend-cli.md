@@ -14,7 +14,7 @@ author_profile: https://github.com/tahelMilstein
 ## Prerequisites 
 
 - You have an account in SAP BTP Trial landscape us10-trial. If you don't have one yet, follow the instructions in [Get a Free Account on SAP BTP Trial](hcp-create-trial-account) 
-- Completed the setup steps in the [Application frontend trial setup](../application-frontend-trial-setup/application-frontend-trial-setup.md) guide.  
+- Completed the setup steps in the [Application frontend trial setup](application-frontend-trial-setup) guide.  
 
 ## You will learn
 - How to log in to **Application Frontend Service** using the CLI.  
